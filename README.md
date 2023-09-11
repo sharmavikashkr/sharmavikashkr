@@ -12,3 +12,4 @@
 - 🤔 I’m looking for help with the cheapest solution for enabling video conference in Flutter. Jitsi is great but requires either selfhosting or using JAAS (Jitsi as a service 😏) for authenticated usage.
 - 💬 Ask me about web development. I love working on web development projects.
 - 📫 How to reach me: Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/sharma-vikashkr/).
+- 🙏 Would you like to support my work by [buying me a 🍕](https://www.buymeacoffee.com/sharefree.co.in)? 
