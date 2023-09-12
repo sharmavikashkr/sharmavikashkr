@@ -17,6 +17,7 @@ I also write technical "how-to" blogs on Medium -> https://sharma-vikashkr.mediu
     - React Native. Still evaluating the famous "React Native or Flutter" in my head.
     - Tailwind. Really saving me a lot of trouble.
     - Flutter. Been working on it for a while and absolutely loving it.
+    - NextJs. Who isn't?
 - 👯 I’m looking to collaborate on Flutter plugins, npm packages, web projects, etc.
 - 🤔 I’m looking for help with the cheapest solution for enabling video conference in Flutter. Jitsi is great but requires either selfhosting or using JAAS (Jitsi as a service 😏 :cough: costly :cough:) for authenticated usage.
 - 💬 Ask me about web development. I love working on web development projects.
