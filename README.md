@@ -3,10 +3,10 @@
 I’m a Lead Software Engineer (Full Stack Developer) with 14+ years of experience building scalable web applications and architecting solutions for startups. My expertise spans full-stack development, system design, and performance optimization, with a deep focus on creating robust, high-performance applications.
 
 ### What I Do Best
-🚀 Building Scalable Systems: From designing efficient backends to crafting seamless front-end experiences, I develop applications that grow with business needs.
-⚡ Startup Tech Execution: I help early-stage startups bring their ideas to life by selecting the right tech stack, ensuring scalability, and optimizing for speed.
-🧠 Exploring Generative AI: I’m actively integrating AI-driven solutions into applications, from chatbots to intelligent automation and AI-assisted decision-making.
-✍️ I also write technical "how-to" blogs on Medium -> https://sharma-vikashkr.medium.com/.
+- 🚀 Building Scalable Systems: From designing efficient backends to crafting seamless front-end experiences, I develop applications that grow with business needs.
+- ⚡ Startup Tech Execution: I help early-stage startups bring their ideas to life by selecting the right tech stack, ensuring scalability, and optimizing for speed.
+- 🧠 Exploring Generative AI: I’m actively integrating AI-driven solutions into applications, from chatbots to intelligent automation and AI-assisted decision-making.
+- ✍️ I also write technical "how-to" blogs on Medium -> https://sharma-vikashkr.medium.com/.
 
 ### Tech Stack & Expertise
 - ✅ Backend: Node.js, NestJS, SpringBoot, MongoDB, Redis, PostgreSQL
